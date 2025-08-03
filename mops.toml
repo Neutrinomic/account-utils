@@ -1,0 +1,11 @@
+[package]
+name = "account-utils"
+version = "1.0.0"
+description = ""
+repository = ""
+keywords = [ ]
+license = "MIT"
+
+[dependencies]
+core = "0.6.0"
+base = "0.15.1"
