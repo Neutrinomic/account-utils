@@ -2,7 +2,7 @@
 name = "account-utils"
 version = "1.0.0"
 description = ""
-repository = ""
+repository = "https://github.com/Neutrinomic/account-utils"
 keywords = [ ]
 license = "MIT"
 
